@@ -1,0 +1,1214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Application Development\\GreenLifeStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\sub_class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\sub_class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\sub_class\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\sub_class\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|d:\\application development\\greenlifestore\\greenlifestore\\sub_class\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\sub_class\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\sub_class\\emailhelper class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\sub_class\\emailhelper class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\sub_class\\lowstocknotification class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\sub_class\\lowstocknotification class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\sub_class\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\sub_class\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\searchproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\searchproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\searchproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\searchproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|d:\\application development\\greenlifestore\\greenlifestore\\reportsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\reportsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\lowstocknotificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\lowstocknotificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\lowstocknotificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\lowstocknotificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\gg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\gg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\trackorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\trackorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\reviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\reviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\searchproductsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\searchproductsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\ordersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\ordersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\customerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\customerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\discountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\discountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\discountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\discountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\trackorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\trackorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\productform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\productform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\discountform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\discountform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_8219B0E_SQLEXPRESS01/GreenLifeStore/True/SqlTable/dbo.payment.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\sub_class\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\sub_class\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\reviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\reviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\supplierform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\supplierform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\sub_class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\sub_class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\sub_class\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\sub_class\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\sub_class\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\sub_class\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Review Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreenLifeStore\\Sub_class\\Review Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\sub_class\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\sub_class\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\sub_class\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\sub_class\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\sub_class\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\sub_class\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\forgotpasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\forgotpasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\cart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\cart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|D:\\Application Development\\GreenLifeStore\\greenlifestore\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B72F5-1714-4094-9E04-0E44465305C0}|GreenLifeStore\\GreenLifeStore.csproj|solutionrelative:greenlifestore\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Order Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreenLifeStore\\Sub_class\\Order Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\OrderDetail Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreenLifeStore\\Sub_class\\OrderDetail Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Product Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreenLifeStore\\Sub_class\\Product Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreenLifeStore\\Sub_class\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Discount Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreenLifeStore\\Sub_class\\Discount Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Customer.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreenLifeStore\\Sub_class\\Customer.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailHelper Class.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\EmailHelper Class.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\EmailHelper Class.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\EmailHelper Class.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\EmailHelper Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:10:22.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Inventory.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Inventory.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Inventory.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Inventory.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:10:23.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\RegisterForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:16:35.267Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\RegisterForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\RegisterForm.cs",
+              "RelativeToolTip": "GreenLifeStore\\RegisterForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:32:35.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Login.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Login.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Login.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T16:30:17.961Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Login.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Login.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Login.cs",
+              "RelativeToolTip": "GreenLifeStore\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:11:57.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Payment.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Payment.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Payment.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Payment.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:00:40.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\User.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\User.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\User.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T02:13:20.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Program.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Program.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Program.cs",
+              "RelativeToolTip": "GreenLifeStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:58:18.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\DBHelper.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\DBHelper.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\DBHelper.cs",
+              "RelativeToolTip": "GreenLifeStore\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T12:52:01.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\OrderStatus.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\OrderStatus.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:14:06.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SearchProductsForm.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\SearchProductsForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\SearchProductsForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\SearchProductsForm.cs",
+              "RelativeToolTip": "GreenLifeStore\\SearchProductsForm.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAqwCQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:02:17.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchProductsForm.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\SearchProductsForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\SearchProductsForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\SearchProductsForm.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\SearchProductsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T11:37:17.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LowStockNotification Class.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\LowStockNotification Class.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\LowStockNotification Class.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\LowStockNotification Class.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\LowStockNotification Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:45:03.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Review Class.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Review Class.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Review Class.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Review Class.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Review Class.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:44:18.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Order Class.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Order Class.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Order Class.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Order Class.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Order Class.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:27:20.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Product Class.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Product Class.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Product Class.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Product Class.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Product Class.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:26:51.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.payment.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_8219B0E_SQLEXPRESS01/GreenLifeStore/True/SqlTable/dbo.payment.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_8219B0E_SQLEXPRESS01/GreenLifeStore/True/SqlTable/dbo.payment.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-03T11:37:04.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportsForm.Designer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ReportsForm.Designer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\ReportsForm.Designer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ReportsForm.Designer.cs",
+              "RelativeToolTip": "GreenLifeStore\\ReportsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:39:02.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Customer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Customer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Customer.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Customer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:25:20.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "OrderDetail Class.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\OrderDetail Class.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\OrderDetail Class.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\OrderDetail Class.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\OrderDetail Class.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:27:47.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Discount Class.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Discount Class.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Discount Class.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Discount Class.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Discount Class.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:43:24.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Customer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Customer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Customer.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Customer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:04:53.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\CustomerForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\CustomerForm.cs",
+              "RelativeToolTip": "GreenLifeStore\\CustomerForm.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAcwLkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:59:39.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerForm.Designer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\CustomerForm.Designer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\CustomerForm.Designer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\CustomerForm.Designer.cs",
+              "RelativeToolTip": "GreenLifeStore\\CustomerForm.Designer.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAawLkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T08:04:44.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\AdminDashboard.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T01:41:56.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ProductForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\ProductForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ProductForm.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:14:20.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LowStockNotificationForm.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\LowStockNotificationForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\LowStockNotificationForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\LowStockNotificationForm.cs",
+              "RelativeToolTip": "GreenLifeStore\\LowStockNotificationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T01:35:41.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ProductForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\ProductForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ProductForm.cs",
+              "RelativeToolTip": "GreenLifeStore\\ProductForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:19:12.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\CustomerForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:59:25.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\AdminDashboard.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\AdminDashboard.cs",
+              "RelativeToolTip": "GreenLifeStore\\AdminDashboard.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:53:29.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LowStockNotificationForm.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\LowStockNotificationForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\LowStockNotificationForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\LowStockNotificationForm.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\LowStockNotificationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:39:55.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ForgotPasswordForm.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ForgotPasswordForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\ForgotPasswordForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ForgotPasswordForm.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\ForgotPasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:58:06.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\CustomerDashboard.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\CustomerDashboard.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\CustomerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:17:37.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReviewForm.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ReviewForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\ReviewForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ReviewForm.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\ReviewForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T11:37:19.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TrackOrder.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\TrackOrder.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\TrackOrder.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\TrackOrder.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\TrackOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T04:40:07.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "gg.jpg - Bitmap [612x408, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\gg.jpg",
+              "RelativeDocumentMoniker": "GreenLifeStore\\gg.jpg",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\gg.jpg - Bitmap [612x408, 24 bit, JPG]",
+              "RelativeToolTip": "GreenLifeStore\\gg.jpg - Bitmap [612x408, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-03-08T16:37:44.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SupplierForm.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\SupplierForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\SupplierForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\SupplierForm.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\SupplierForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:20:59.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerDashboard.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\CustomerDashboard.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\CustomerDashboard.cs",
+              "RelativeToolTip": "GreenLifeStore\\CustomerDashboard.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAuwMAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:23:25.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Cart.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Cart.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Cart.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Cart.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\Cart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:39:43.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Profile.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Profile.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Profile.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T11:37:30.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrdersForm.Designer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\OrdersForm.Designer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\OrdersForm.Designer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\OrdersForm.Designer.cs",
+              "RelativeToolTip": "GreenLifeStore\\OrdersForm.Designer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwHwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:14:20.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrdersForm.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\OrdersForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\OrdersForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\OrdersForm.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\OrdersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:13:43.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SearchProductsForm.Designer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\SearchProductsForm.Designer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\SearchProductsForm.Designer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\SearchProductsForm.Designer.cs",
+              "RelativeToolTip": "GreenLifeStore\\SearchProductsForm.Designer.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAawK8AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T01:49:35.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CustomerDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\CustomerDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\CustomerDashboard.Designer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\CustomerDashboard.Designer.cs",
+              "RelativeToolTip": "GreenLifeStore\\CustomerDashboard.Designer.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAawMcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:59:52.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DiscountForm.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\DiscountForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\DiscountForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\DiscountForm.cs",
+              "RelativeToolTip": "GreenLifeStore\\DiscountForm.cs",
+              "ViewState": "AgIAAF0AAABAvCciUCgmwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:34:48.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DiscountForm.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\DiscountForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\DiscountForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\DiscountForm.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\DiscountForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:39:39.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PaymentForm.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\PaymentForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\PaymentForm.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\PaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:21:17.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TrackOrder.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\TrackOrder.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\TrackOrder.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\TrackOrder.cs",
+              "RelativeToolTip": "GreenLifeStore\\TrackOrder.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAEUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T04:23:18.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductForm.Designer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ProductForm.Designer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\ProductForm.Designer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ProductForm.Designer.cs",
+              "RelativeToolTip": "GreenLifeStore\\ProductForm.Designer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:20:34.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\ReportsForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "GreenLifeStore\\ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:36:22.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DiscountForm.Designer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\DiscountForm.Designer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\DiscountForm.Designer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\DiscountForm.Designer.cs",
+              "RelativeToolTip": "GreenLifeStore\\DiscountForm.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T13:13:53.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\AdminDashboard.Designer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "GreenLifeStore\\AdminDashboard.Designer.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAASwPIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:02:03.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\ReportsForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ReportsForm.cs",
+              "RelativeToolTip": "GreenLifeStore\\ReportsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:38:33.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ForgotPasswordForm.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ForgotPasswordForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\ForgotPasswordForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ForgotPasswordForm.cs",
+              "RelativeToolTip": "GreenLifeStore\\ForgotPasswordForm.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAUwJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T04:58:25.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\PaymentForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\PaymentForm.cs",
+              "RelativeToolTip": "GreenLifeStore\\PaymentForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T04:43:48.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Cart.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Cart.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Cart.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Cart.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwIEAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:10:19.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Cart.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Cart.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Cart.cs",
+              "RelativeToolTip": "GreenLifeStore\\Cart.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA8wCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:08:17.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\App.config",
+              "RelativeDocumentMoniker": "GreenLifeStore\\App.config",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\App.config",
+              "RelativeToolTip": "GreenLifeStore\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-15T16:37:17.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ReviewForm.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ReviewForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\ReviewForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ReviewForm.cs",
+              "RelativeToolTip": "GreenLifeStore\\ReviewForm.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAtwLoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:23:47.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SupplierForm.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\SupplierForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\SupplierForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\SupplierForm.cs",
+              "RelativeToolTip": "GreenLifeStore\\SupplierForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:21:02.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OrdersForm.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\OrdersForm.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\OrdersForm.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\OrdersForm.cs",
+              "RelativeToolTip": "GreenLifeStore\\OrdersForm.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAxwIAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:13:45.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SupplierForm.Designer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\SupplierForm.Designer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\SupplierForm.Designer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\SupplierForm.Designer.cs",
+              "RelativeToolTip": "GreenLifeStore\\SupplierForm.Designer.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAlwOEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:21:21.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Profile.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Profile.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Profile.cs",
+              "RelativeToolTip": "GreenLifeStore\\Profile.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T04:56:30.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Product.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Product.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Product.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:37:18.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Review.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Review.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Review.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:57:02.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Discount.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Discount.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Discount.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:10:21.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\ProductType.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\ProductType.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\ProductType.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\ProductType.cs",
+              "ViewState": "AgIAAAcAAAAgDGF3v54kwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:48:52.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Order.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Order.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Order.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Order.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:34:33.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Supplier.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Sub_class\\Supplier.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Sub_class\\Supplier.cs",
+              "RelativeToolTip": "GreenLifeStore\\Sub_class\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T02:05:46.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ForgotPasswordForm.Designer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ForgotPasswordForm.Designer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\ForgotPasswordForm.Designer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\ForgotPasswordForm.Designer.cs",
+              "RelativeToolTip": "GreenLifeStore\\ForgotPasswordForm.Designer.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAqwKEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T04:59:39.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Cart.Designer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Cart.Designer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Cart.Designer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Cart.Designer.cs",
+              "RelativeToolTip": "GreenLifeStore\\Cart.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:45:10.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Login.Designer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Login.Designer.cs",
+              "RelativeToolTip": "GreenLifeStore\\Login.Designer.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAqwN4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:06:39.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "GreenLifeStore\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\Properties\\Resources.resx",
+              "RelativeToolTip": "GreenLifeStore\\Properties\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwJwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-16T02:09:16.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "GreenLifeStore\\RegisterForm.Designer.cs",
+              "ToolTip": "D:\\Application Development\\GreenLifeStore\\GreenLifeStore\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "GreenLifeStore\\RegisterForm.Designer.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAiwA8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:32:13.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
